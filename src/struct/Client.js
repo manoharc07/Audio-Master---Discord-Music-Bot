@@ -5,13 +5,9 @@ module.exports = class extends Client {
 		super({
 			disableMentions: 'everyone'
 		});
-
 		this.commands = new Collection();
-
 		this.cooldowns = new Collection();
-
 		this.queue = new Map();
-
 		this.config = config;
 	}
 };
