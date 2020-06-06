@@ -5,7 +5,7 @@ const MusicClient = require("./struct/Client");
 const { Collection } = require("discord.js");
 const client = new MusicClient({
   token: process.env.DISCORD_TOKEN,
-  prefix: process.env.DISCORD_PREFIX,
+  prefix: process.env.PREFIX,
 });
 
 const commandFiles = readdirSync(join(__dirname, "commands")).filter((file) =>
