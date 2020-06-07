@@ -14,6 +14,6 @@
 
 - Run `npm i` to install dependencies.
 - Create a .env file for environment variables for `DISCORD_TOKEN` and `PREFIX`.
-``DISCORD_TOKEN=YOUR TOKEN HERE
-PREFIX=``
+> DISCORD_TOKEN =YOURTOKENHERE
+> PREFIX=
 - Run `npm start` to start the bot.
