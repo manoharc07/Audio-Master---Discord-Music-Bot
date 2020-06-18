@@ -1,5 +1,5 @@
 # Audio-Master-Discord-Music-Bot
-[Invite Link]-https://discord.com/oauth2/authorize?client_id=718843926995402832&scope=bot
+[Invite Link](https://discord.com/oauth2/authorize?client_id=718843926995402832&scope=bot)
 ### Features
 
 ------------
